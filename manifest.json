@@ -1,0 +1,27 @@
+{
+  "name": "বোধজ্ঞান – BodhGyan",
+  "short_name": "বোধজ্ঞান",
+  "description": "জ্ঞান, নৈতিকতা ও মানবিকতার আলোকে জীবনকে সুন্দর করুন",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1f12",
+  "theme_color": "#0a1f12",
+  "orientation": "portrait",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "https://yt3.googleusercontent.com/ytc/AIdro_nxZDummy192/photo.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://yt3.googleusercontent.com/ytc/AIdro_nxZDummy512/photo.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "entertainment"],
+  "screenshots": []
+}
